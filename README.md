@@ -16,11 +16,7 @@ This project is inspired by and extends the analysis presented in
 ---
 
 ## 📊 Project Objectives
-This project answers key questions about the job market, including:
-- Which roles offer the highest salaries?
-- What skills are most in demand?
-- Which skills are associated with higher pay?
-- What skills provide the best balance between demand and salary?
+This project answers key questions about the job market and provides a brief analysis on the obtained results.
 
 ---
 
