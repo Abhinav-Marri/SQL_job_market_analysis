@@ -8,8 +8,8 @@ This project is inspired by and extends the analysis presented in
 ---
 
 ## 📌 Tech Stack
-- **Database:** PostgreSQL  
-- **Languages:** SQL  
+- **Database:** PostgreSQL ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+- **Languages:** SQL  ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge)
 - **Dataset:** Job Postings Dataset  
   - Source: [Luke Barousse](https://www.lukebarousse.com/)  
 
@@ -113,14 +113,6 @@ It highlights seasonal hiring trends and compensation patterns early in the year
 - A strong skill profile combines:
   - Core skills (Python, SQL, Cloud Platforms)
   - Specialized tools and languages (Go, Rust, Observability tools)
-
----
-
-## 🚀 Future Improvements
-- Skill demand vs salary scatter plots
-- Company-wise salary analysis
-- Regional comparisons
-- Query optimization and indexing analysis
 
 ---
 
