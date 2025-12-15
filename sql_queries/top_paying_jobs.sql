@@ -1,0 +1,13 @@
+SELECT
+    job_title_short,
+    job_location,
+    salary_year_avg,
+    name AS company_name
+FROM
+    job_postings_fact
+LEFT JOIN company_dim ON job_postings_fact.company_id = company_dim.company_id
+WHERE
+    job_title_short = 'Cloud Engineer' AND salary_year_avg IS NOT NULL
+ORDER BY
+    salary_year_avg DESC
+LIMIT 10
